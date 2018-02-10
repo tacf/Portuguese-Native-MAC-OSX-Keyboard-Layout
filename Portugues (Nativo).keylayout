@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-06-06 at 16:58 (WEST)-->
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-08-01 at 23:05 (GMT+1)-->
-<keyboard group="126" id="-16817" name="Portugues (Nativo)" maxout="2">
+<!--Last edited by Ukelele version 3.2.5.180 on 2018-02-10 at 17:35 (WET)-->
+<keyboard group="126" id="-25184" name="Portugues (Nativo)" maxout="2">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
 		<layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -84,7 +84,7 @@
 			<key code="47" output="f"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action=" "/>
-			<key code="50" output="&#x003C;"/>
+			<key code="50" output="+"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -174,7 +174,7 @@
 			<key code="47" output="F"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action="  1"/>
-			<key code="50" output="&#x003E;"/>
+			<key code="50" output="*"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -264,7 +264,7 @@
 			<key code="47" output=""/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=""/>
-			<key code="50" output=""/>
+			<key code="50" output="="/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
