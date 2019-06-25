@@ -19,7 +19,7 @@ Add full compatibility with the original layout version.
 
 License
 ----
-UNLINCENSED
+UNLICENSED
 
 
 [Xah Lee]:http://daringfireball.net/
