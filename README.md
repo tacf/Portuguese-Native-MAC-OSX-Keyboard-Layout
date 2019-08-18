@@ -21,5 +21,5 @@ License
 ----
 UNLICENSED
 
-
-[Xah Lee]:http://daringfireball.net/
+[Ukelele]: https://scripts.sil.org/ukelele
+[Xah Lee]: http://xahlee.info/kbd/pt-nativo_keyboard_layout.html
