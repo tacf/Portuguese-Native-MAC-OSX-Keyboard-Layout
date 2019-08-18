@@ -23,3 +23,8 @@ UNLICENSED
 
 [Ukelele]: https://scripts.sil.org/ukelele
 [Xah Lee]: http://xahlee.info/kbd/pt-nativo_keyboard_layout.html
+
+### Contributors
+
+- [tacf](https://github.com/tacf)
+- [xavierpinho](https://github.com/xavierpinho) 
