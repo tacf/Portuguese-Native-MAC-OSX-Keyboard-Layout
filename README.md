@@ -1,4 +1,4 @@
-# Portguese Native Mac OSX Keyboard Layout
+# Portuguese Native Mac OSX Keyboard Layout
 
 >“pt-Nativo” layout is a efficient layout for Portuguese language, based on the same principles of the Dvorak Keyboard Layout. 
 >It is created by Ari Caldeira, in around 2006. Its home page at tecladobrasileiro.com.br is dead as of 2012-04-07.  [Xah Lee]
